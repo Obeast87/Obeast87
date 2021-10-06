@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... I dunno? I'm still learning.
 - 📫 How to reach me ... On here if possible via DMs or PMs.
 - I'm also not a super great programmer, but if you see potential
-- in what I've written and tossed on here, please let me know.
+- in what I've written and tossed on here as a beginner-ish programmer, please let me know.
 
 <!---
 Obeast87/Obeast87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
